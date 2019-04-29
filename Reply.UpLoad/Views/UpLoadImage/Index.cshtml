@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>UpLoad de Images</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Nome da Imagem</label>
+        <input type="text" class="form-control" id="nameImage" aria-describedby="nameHelp" placeholder="Nome da imagem">
+        <small id="nameHelp" class="form-text text-muted">Digite aqui o nome da sua imagem.</small>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Descrição</label>
+        <input type="text" class="form-control" id="descriptionImage" aria-describedby="descriptionHelp" placeholder="Descrição da imagem">
+        <small id="descriptionHelp" class="form-text text-muted">Digite aqui uma breve descrição da sua imagem.</small>
+    </div>
+    <div class="custom-file">
+        <input type="file" class="custom-file-input" id="validatedCustomFile" required>
+        <label class="custom-file-label" for="validatedCustomFile">Choose file...</label>
+        <div class="invalid-feedback">
+            Favor selecionar um imagem. Tamanho 200px x 200px e somente no formato "png".
+        </div>
+    </div>
+    </br>
+    <button type="submit" class="btn btn-primary">UpLoad</button>
+</form>
+<hr />
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Descrição</th>
+            <th scope="col">Imagem</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>mdo</td>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>fat</td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td colspan="2">Larry the Bird</td>
+            <td>twitter</td>
+        </tr>
+    </tbody>
+</table>
