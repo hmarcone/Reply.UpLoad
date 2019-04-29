@@ -2,7 +2,6 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Reply.UpLoad.Data;
@@ -10,9 +9,9 @@ using Reply.UpLoad.Models;
 
 namespace Reply.UpLoad.Controllers
 {
-    //[Produces("application/json")]
-    //[Route("api/images")]
-    public class UpLoadImageController : Controller
+	//[Produces("application/json")]
+	//[Route("api/images")]
+	public class UpLoadImageController : Controller
     {
         private readonly ApplicationDbContext _context;
         private readonly IHostingEnvironment _environment;

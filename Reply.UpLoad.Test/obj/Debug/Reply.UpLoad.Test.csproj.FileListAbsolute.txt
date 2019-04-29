@@ -1,0 +1,14 @@
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Reply.UpLoad.Test.dll
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Reply.UpLoad.Test.pdb
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Reply.UpLoad\Reply.UpLoad.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Reply.UpLoad\Reply.UpLoad.Test\obj\Debug\Reply.UpLoad.Test.csprojAssemblyReference.cache
+D:\Reply.UpLoad\Reply.UpLoad.Test\obj\Debug\Reply.UpLoad.Test.csproj.CoreCompileInputs.cache
+D:\Reply.UpLoad\Reply.UpLoad.Test\obj\Debug\Reply.UpLoad.Test.csproj.CopyComplete
+D:\Reply.UpLoad\Reply.UpLoad.Test\obj\Debug\Reply.UpLoad.Test.dll
+D:\Reply.UpLoad\Reply.UpLoad.Test\obj\Debug\Reply.UpLoad.Test.pdb
